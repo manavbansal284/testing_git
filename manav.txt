@@ -1,5 +1,0 @@
-Hello I am using git
-
-Did some changes
-
-New changes done
